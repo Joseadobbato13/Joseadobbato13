@@ -52,6 +52,16 @@ natural con IA (Claude)**.
 | 💧 **Redes hidráulicas** | Generación de redes de tuberías desde datos de cálculo (Excel/DXF) |
 | 🏢 **BIM / IFC** | Property Sets, exportación IFC 4.3 Infra, modelado paramétrico |
 
+## 📌 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| **[automatizacion-pyrevit](https://github.com/Joseadobbato13/automatizacion-pyrevit)** | Extensión pyRevit para Revit 2025: botones de automatización BIM (análisis, parámetros, familias, IFC) | ![Revit](https://img.shields.io/badge/Revit-1667B3?style=flat-square&logo=autodesk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[automatizacion-dynamo-revit](https://github.com/Joseadobbato13/automatizacion-dynamo-revit)** | Dynamo para Revit 2026: enrutado de conduits eléctricos, colocación de cajas y luminarias | ![Dynamo](https://img.shields.io/badge/Dynamo-005CB9?style=flat-square&logo=autodesk&logoColor=white) ![MEP](https://img.shields.io/badge/MEP-FFB000?style=flat-square) |
+| **[automatizacion-mcp-navisworks](https://github.com/Joseadobbato13/automatizacion-mcp-navisworks)** | Servidor MCP que controla Navisworks Manage 2025 desde Claude vía plugin C# | ![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+
+> También mantengo proyectos privados de automatización de **Civil 3D 2026** (servidor MCP + plugin C# + Dynamo).
+
 ## 📊 GitHub
 
 <div align="center">
