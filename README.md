@@ -66,8 +66,9 @@ natural con IA (Claude)**.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Joseadobbato13&show_icons=true&hide_border=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=768390&bg_color=00000000" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseadobbato13&layout=compact&hide_border=true&title_color=1F6FEB&text_color=768390&bg_color=00000000" alt="top-langs"/>
+[![Seguidores](https://img.shields.io/github/followers/Joseadobbato13?style=for-the-badge&logo=github&label=Seguidores&color=1F6FEB&labelColor=0A2540)](https://github.com/Joseadobbato13?tab=followers)
+&nbsp;
+[![Repositorios](https://img.shields.io/badge/Ver_repositorios-0A2540?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joseadobbato13?tab=repositories)
 
 </div>
 
