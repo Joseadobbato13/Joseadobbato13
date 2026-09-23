@@ -101,7 +101,7 @@ es una red — tuberías, canalizaciones, datos — que conecta el diseño con l
 
 [![Email](https://img.shields.io/badge/Email-B4472A?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:joseadobbato@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7A1E1A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7A1E1A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseadobbato/)
 &nbsp;
 [![Repositorios](https://img.shields.io/badge/Repositorios-E0843A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joseadobbato13?tab=repositories)
 
